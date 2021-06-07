@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulianMoncet-Data
 - 👀 I’m interested in Data Analysis, Sports and Movies
-- 🌱 I’m currently learning SQL and sooner than later, Python
+- 🌱 I’m currently learning Data Analysis Tools and sooner than later, Python
 
 <!---
 JulianMoncet-Data/JulianMoncet-Data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
